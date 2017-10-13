@@ -1,0 +1,26 @@
+{
+  "name": "scrapingproj",
+  "version": "1.0.0",
+  "description": "practicingscraping",
+  "main": "exi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shpeacock/nodescrapingproject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shpeacock/nodescrapingproject/issues"
+  },
+  "homepage": "https://github.com/shpeacock/nodescrapingproject#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.2",
+    "handlebars": "^4.0.10",
+    "path": "^0.12.7",
+    "request": "^2.83.0"
+  }
+}
